@@ -1,0 +1,9 @@
+https://github.com/mattboldt/typed.js
+
+npm install typed.js
+
+//import typed.js
+<script src="typed.js"></script>
+
+le lien de video
+https://www.youtube.com/watch?v=J7QZ0rK0w78&t=94s
